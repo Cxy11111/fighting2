@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Happ</string>
+    <string name="add_title">新的备忘录</string>
+    <string name="add_put">请输入内容</string>
+    <string name="add_save_text">保存</string>
+    <string name="list_title_text">My Notes</string>
+    <string name="decision_title">Yes Or No</string>
+    <string name="decision_add">添加选项</string>
+    <string name="decision_start">开始</string>
+    <string name="menu_add_title">新增备忘录</string>
+    <string name="edit_text">编辑备忘录</string>
+    <string name="caozuotishi">轻触编辑——长按删除</string>
+    <string name="bianji">编辑</string>
+    <string name="dec_edit_delete">删除</string>
+    <string name="dec_edit_close">取消</string>
+    <string name="dec_edit_save">保存</string>
+</resources>

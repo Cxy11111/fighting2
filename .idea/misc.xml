@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/fighting/app/src/main/res/layout/activity_dec_maker2.xml" value="0.190625" />
+        <entry key="..\:/AndroidStudioProjects/fighting/app/src/main/res/layout/activity_edit.xml" value="0.190625" />
+        <entry key="..\:/AndroidStudioProjects/fighting/app/src/main/res/layout/activity_main.xml" value="0.190625" />
+        <entry key="..\:/AndroidStudioProjects/fighting/app/src/main/res/layout/activity_note.xml" value="0.190625" />
+        <entry key="..\:/AndroidStudioProjects/fighting/app/src/main/res/layout/add1.xml" value="0.190625" />
+        <entry key="..\:/AndroidStudioProjects/fighting/app/src/main/res/layout/list1.xml" value="0.190625" />
+        <entry key="..\:/AndroidStudioProjects/fighting/app/src/main/res/layout/list_item.xml" value="0.190625" />
+        <entry key="..\:/AndroidStudioProjects/fighting/app/src/main/res/layout/list_item2.xml" value="0.190625" />
+        <entry key="..\:/AndroidStudioProjects/fighting/app/src/main/res/menu/addnotes.xml" value="0.190625" />
+        <entry key="..\:/Users/lenovo/Desktop/1/fignting/app/src/main/res/layout/activity_dec_maker2.xml" value="0.190625" />
+        <entry key="..\:/Users/lenovo/Desktop/1/fignting/app/src/main/res/layout/activity_edit.xml" value="0.190625" />
+        <entry key="..\:/Users/lenovo/Desktop/1/fignting/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/lenovo/Desktop/1/fignting/app/src/main/res/layout/activity_note.xml" value="0.190625" />
+        <entry key="..\:/Users/lenovo/Desktop/1/fignting/app/src/main/res/layout/activity_test.xml" value="0.190625" />
+        <entry key="..\:/Users/lenovo/Desktop/1/fignting/app/src/main/res/layout/activity_yndetail.xml" value="0.190625" />
+        <entry key="..\:/Users/lenovo/Desktop/1/fignting/app/src/main/res/layout/add1.xml" value="0.190625" />
+        <entry key="..\:/Users/lenovo/Desktop/1/fignting/app/src/main/res/layout/decision_edit.xml" value="0.190625" />
+        <entry key="..\:/Users/lenovo/Desktop/1/fignting/app/src/main/res/layout/decision_maker.xml" value="0.22" />
+        <entry key="..\:/Users/lenovo/Desktop/1/fignting/app/src/main/res/layout/list1.xml" value="0.190625" />
+        <entry key="..\:/Users/lenovo/Desktop/1/fignting/app/src/main/res/layout/list_item.xml" value="0.190625" />
+        <entry key="..\:/Users/lenovo/Desktop/1/fignting/app/src/main/res/layout/list_item2.xml" value="0.190625" />
+        <entry key="..\:/Users/lenovo/Desktop/1/fignting/app/src/main/res/menu/addnotes.xml" value="0.190625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
